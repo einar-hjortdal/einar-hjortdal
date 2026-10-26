@@ -20,7 +20,7 @@ I dislike complexity, dependencies, and subscriptions. That is why I build the t
 
 - [peony](https://github.com/einar-hjortdal/peony) ecommerce system
 - [peony-starter](https://github.com/einar-hjortdal/peony-starter) starter for peony
-- [peony-admin](https://github.com/einar-hjortdal/peony-admin) admin frotnend for peony
+- [peony-admin](https://github.com/einar-hjortdal/peony-admin) admin frontend for peony
 
 ### Not so important:
 

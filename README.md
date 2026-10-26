@@ -9,7 +9,7 @@ I dislike complexity, dependencies, and subscriptions. That is why I build the t
 ### The building blocks
 
 - [firebird](https://github.com/einar-hjortdal/firebird): Firebird >=5 compatible client library
-- [redict](https://github.com/einar-hjortdal/redict): Redict client library (Redis <=7.2.4 compatible)
+- [redict](https://github.com/einar-hjortdal/redict): [Redict](https://redict.io/) client library (Redis <=7.2.4 compatible)
 - [sessions](https://github.com/einar-hjortdal/sessions): framework-agnostic session management
 - [blobly](https://github.com/einar-hjortdal/blobly): simple central BLOB server alternative to cloud solutions
 - [lexical_uuid](https://github.com/einar-hjortdal/lexical_uuid): sortable UUID-compatible ids (predates UUIDv7)

@@ -8,7 +8,7 @@ I dislike complexity, dependencies, and subscriptions. That is why I build the t
 
 ### The building blocks
 
-- [firebird](https://github.com/einar-hjortdal/firebird): [FirebirdSQL](https://firebirdsql.org/) >=5 compatible client library
+- [firebird](https://github.com/einar-hjortdal/firebird): [FirebirdSQL](https://firebirdsql.org/) >=5 client library
 - [redict](https://github.com/einar-hjortdal/redict): [Redict](https://redict.io/) client library (Redis <=7.2.4 compatible)
 - [sessions](https://github.com/einar-hjortdal/sessions): framework-agnostic session management
 - [blobly](https://github.com/einar-hjortdal/blobly): simple central BLOB server alternative to cloud solutions

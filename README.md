@@ -2,14 +2,14 @@
 
 I am an exercise physiologist and developer
 
-I dislike complexity, dependencies, and subscriptions. That is why I build the tools I need myself, from scratch.
+I enjoy understanding how things actually work, and I dislike complexity and subscriptions. That is why I build the tools I need myself, from scratch.
 
 ## My projects
 
 ### The building blocks
 
-- [firebird](https://github.com/einar-hjortdal/firebird): [FirebirdSQL](https://firebirdsql.org/) >=5 client library
-- [redict](https://github.com/einar-hjortdal/redict): [Redict](https://redict.io/) client library (Redis <=7.2.4 compatible)
+- [firebird](https://github.com/einar-hjortdal/firebird): client library for [FirebirdSQL](https://firebirdsql.org/) >=5
+- [redict](https://github.com/einar-hjortdal/redict): client library for [Redict](https://redict.io/) (Redis <=7.2.4 compatible)
 - [sessions](https://github.com/einar-hjortdal/sessions): framework-agnostic session management
 - [blobly](https://github.com/einar-hjortdal/blobly): simple central BLOB server alternative to cloud solutions
 - [lexical_uuid](https://github.com/einar-hjortdal/lexical_uuid): sortable UUID-compatible ids (predates UUIDv7)
